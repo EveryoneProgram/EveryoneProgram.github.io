@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos-rsses on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</title>
+    <link>http://EveryoneProgram.com/videos/index.xml</link>
+    <description>Recent content in Videos-rsses on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://EveryoneProgram.com/videos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Videos</title>
+      <link>http://everyoneprogram.com/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://everyoneprogram.com/videos/</guid>
+      <description>&lt;p&gt;Many people find the tutorials by themselves work fine. However, some folks
+prefer starting with video lectures before tackling the tutorial exercises.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve found the free
+&lt;a href=&#34;https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&#34;&gt;Socratica&lt;/a&gt;
+series of lectures to be straightforward and useful. They follow a similar (not exact)
+order as the tutorials.&lt;/p&gt;
+
+&lt;p&gt;The code examples in these videos generally use large enough fonts that you can
+even watch them on your phone, if you have young eyes.&lt;/p&gt;
+
+&lt;p&gt;Note that the Socratica videos seem to have a science-fiction theme in their
+artwork, and the speaker gives the impression that she might be an android.
+This, however, gives her an excuse for speaking very clearly and precisely.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
