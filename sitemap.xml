@@ -6,10 +6,6 @@
   </url>
   
   <url>
-    <loc>http://everyoneprogram.com/</loc>
-  </url>
-  
-  <url>
     <loc>http://everyoneprogram.com/tutorials/</loc>
   </url>
   
@@ -27,6 +23,36 @@
   
   <url>
     <loc>http://everyoneprogram.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://everyoneprogram.com/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://everyoneprogram.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://everyoneprogram.com/joining/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://everyoneprogram.com/resources/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://everyoneprogram.com/tutorials/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://everyoneprogram.com/videos/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

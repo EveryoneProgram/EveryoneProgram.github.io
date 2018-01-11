@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</title>
-    <link>http://EveryoneProgram.com/index.xml</link>
+    <link>http://everyoneprogram.com/index.xml</link>
     <description>Recent content on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://EveryoneProgram.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://everyoneprogram.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How It Works</title>
@@ -21,6 +21,13 @@ self-paced tutorials. You move as fast or as slowly as you feel comfortable. If
 you get stuck or have questions, we have coaches to help.&lt;/p&gt;
 
 &lt;p&gt;Meetings are held in either Crested Butte or Gunnison, Colorado.&lt;/p&gt;
+
+&lt;h2 id=&#34;join-any-time&#34;&gt;Join Any Time&lt;/h2&gt;
+
+&lt;p&gt;You can join at any time &amp;ndash; we have no official starting date and there is no
+&amp;ldquo;course schedule.&amp;rdquo; You start wherever you are, and move forward at your own pace.&lt;/p&gt;
+
+&lt;p&gt;If you can&amp;rsquo;t make every meeting, that&amp;rsquo;s fine. Just pick up where you left off.&lt;/p&gt;
 
 &lt;h2 id=&#34;practice-before-theory&#34;&gt;Practice Before Theory&lt;/h2&gt;
 
