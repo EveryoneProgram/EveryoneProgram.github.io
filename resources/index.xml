@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resources on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</title>
-    <link>http://everyoneprogram.com/resources/index.xml</link>
-    <description>Recent content in Resources on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</description>
+    <title>Resources-rsses on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</title>
+    <link>http://EveryoneProgram.com/resources/index.xml</link>
+    <description>Recent content in Resources-rsses on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://everyoneprogram.com/resources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://EveryoneProgram.com/resources/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>More Resources</title>
@@ -32,6 +32,9 @@ includes links to books on creating games with Python).&lt;/p&gt;&lt;/li&gt;
 Minecraft).&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.edx.org/course/introduction-computing-using-python-gtx-cs1301x#!&#34;&gt;Introduction to Computing using Python&lt;/a&gt; (a free EDX course).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.vodien.com/blog/education/beginners-resources-to-learn-programming-languages.php&#34;&gt;Beginner&amp;rsquo;s resources for HTML, CSS, JavaScript, JQuery, PHP,
+Python and Ruby&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

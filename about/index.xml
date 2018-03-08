@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</title>
-    <link>http://everyoneprogram.com/about/index.xml</link>
-    <description>Recent content in Abouts on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</description>
+    <title>About-rsses on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</title>
+    <link>http://EveryoneProgram.com/about/index.xml</link>
+    <description>Recent content in About-rsses on Everyone Program: A free, self-paced, coached introduction to computer programming for people who know nothing about it.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://everyoneprogram.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://EveryoneProgram.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
